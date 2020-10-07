@@ -8,6 +8,7 @@
 
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="icon" type="image/png" href="images/icon.png">
+  <script src="scramble.js"></script>
 </head>
 
 <body>
@@ -20,7 +21,14 @@
               <p style="text-align:center">
                 <name>Kuan-Hung Chen 陳冠弘</name>
                 <br>
-                khc <em>at</em> gapp.nthu.edu.tw
+                <font id="email" style="display:inline;">
+                    <noscript><i>Please enable Javascript to view</i></noscript>
+                </font>
+                <script>
+                    emailScramble = new scrambledString(document.getElementById('email'),
+                        'emailScramble', 'kwhtc.@ugdaep.pu.hnt',
+                    [1,20,2,19,3,18,4,17,5,16,6,15,7,14,8,13,9,12,10,11]);
+                </script>
               </p>
               <br>
               <p>
@@ -284,7 +292,7 @@
           <tr>
             <td style="padding:0px">
               <p style="text-align:left;font-size:small;">
-                Last updated on 2020-10-07
+                Last updated Oct. 2020
               </p>
             </td>
             <td style="padding:0px">
