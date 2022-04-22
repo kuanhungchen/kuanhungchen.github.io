@@ -1,0 +1,1 @@
+22/04/23 01:37 mac: cmd-tab to switch between different apps; cmd-~ to switch between windows of same app
