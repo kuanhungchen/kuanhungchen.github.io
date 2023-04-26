@@ -1,0 +1,17 @@
+body {
+  font-family: 'Montserrat';
+  line-height: 1.5em;
+  font-size: 13pt;
+  color: #333;
+  padding: 2em;
+  max-width: 1150px;
+  /* margin: auto; */
+}
+
+a:link, a:visited {
+  color: #33D;
+}
+
+a:hover {
+  color: #D66;
+}
