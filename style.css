@@ -1,11 +1,11 @@
 body {
-  font-family: 'Montserrat';
-  line-height: 1.5em;
+  font-family: 'Google Sans';
+  line-height: 1.7em;
   font-size: 13pt;
   color: #333;
   padding: 2em;
-  max-width: 1150px;
-  /* margin: auto; */
+  max-width: 760px;
+  margin: auto;
 }
 
 a:link, a:visited {
@@ -14,4 +14,12 @@ a:link, a:visited {
 
 a:hover {
   color: #D66;
+}
+
+h1 {
+  font-size: 160%;
+}
+
+p {
+  padding: 5px 0px;
 }
