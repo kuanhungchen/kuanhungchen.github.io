@@ -28,7 +28,20 @@ ul {
   padding-left: 1.5em;
 }
 
-@media only screen and (max-width: 600px) {
+p + table {
+  margin: -20px 0px;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  font-size: 0.95em;
+  padding: 0px;
+}
+
+@media only screen and (max-width: 800px) {
   body {
     font-size: 80%;
   }
