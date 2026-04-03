@@ -41,6 +41,10 @@ td {
   padding: 0px;
 }
 
+.highlight {
+  background: linear-gradient(transparent 50%, #fdfaa0 50%);
+}
+
 @media only screen and (max-width: 800px) {
   body {
     font-size: 80%;
