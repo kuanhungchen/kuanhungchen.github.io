@@ -4,3 +4,4 @@
 22/05/26 05:24 linux: set ForwardX11 as yes in ssh config then use `eog` to display images on remote server
 22/07/28 14:03 gmail: use google domain email to send/receive mails - https://www.wfublog.com/2022/01/gmail-custom-domain-email.html
 22/08/04 22:08 chrome: use cmd/ctrl and/or shift to select multiple tabs at once
+26/09/29 22:15 google: check out https://medium.com/scrubbi/9ca0113eedea on how to set up calendar events only on weekdays
