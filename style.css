@@ -32,6 +32,10 @@ p + table {
   margin: -20px 0px;
 }
 
+li {
+  padding-bottom: 0.5em;
+}
+
 table {
   width: 100%;
 }
